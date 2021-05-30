@@ -1,4 +1,4 @@
-# Google_Meet_Automation
+# Google-Meet Automation for Linux
 __________________________________________________________________________________________________________________________________________________________________
 
 This project showcases the automation of Google-Meet login on *Linux*.
