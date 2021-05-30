@@ -1,4 +1,6 @@
 # Google_Meet_Automation
+__________________________________________________________________________________________________________________________________________________________________
+
 This project showcases the automation of Google-Meet login on *Linux*.
 
 **REQUIREMENTS**
@@ -15,6 +17,7 @@ sudo mv ~/Downloads/chromedriver /usr/local/bin
 
 #Make file executable
 sudo chmod +x /usr/local/bin/chromedriver
+__________________________________________________________________________________________________________________________________________________________________
 
 
 **IMPLEMENTATION:**
@@ -22,6 +25,9 @@ sudo chmod +x /usr/local/bin/chromedriver
 Step 1: Enter all the necessary details in my_detailes.py file.
 Step 2: Add the path of the google_meet.py file in the gmeet.sh file as mentioned there.
 Step 3: Schedule its execution using cron (Task scheduler).
+
+__________________________________________________________________________________________________________________________________________________________________
+
 
 **Scheduling using cron:**
 
@@ -49,7 +55,10 @@ Open the terminal and give the following commands:
   <min> <hour> <day_of_month> <month> <day> /bin/sh <PATH to gmeet.sh file>
   #CTRL+X and RETURN
   #Press Y to confirm and RETURN
-  
+    
+__________________________________________________________________________________________________________________________________________________________________
+
+    
 **That's it your work is done......
 **You will never be late for your meeting again......
 **Peace!**
