@@ -32,6 +32,7 @@ chrome_pref.add_experimental_option("prefs", {
 })
 
 #Chrome driver is initialised. You may use Geckodriver as well, if you are a Firefox user. 
+#Add path if necessary.
 
 browser=webdriver.Chrome(options=chrome_pref)
 
