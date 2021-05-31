@@ -13,7 +13,7 @@ You need to add Chromedrive/Geckodriver executable to the PATH and the commands 
 #If you are using geckodriver, then replace chromedriver with geckodriver.
 
 #Move file to a directory that's already in PATH
-sudo mv ~/Downloads/chromedriver /usr/local/bin
+sudo cp <Chromedriver/Geckodriver PATH> /usr/local/bin
 
 #Make file executable
 sudo chmod +x /usr/local/bin/chromedriver
